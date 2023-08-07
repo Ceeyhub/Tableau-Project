@@ -11,8 +11,8 @@
 ## Results
 ### Option 2 - Airbnb Dataset
 #### I started out by trying to understand the number of Airbnb in NYC, the most popular neighborhoods and number of hosts in general.
-#### Manhattan turned out to be the most in demand neighborhood and further analysis showed that the 1-bedroom Apartment were the most in demand and most highly priced.
-#### The price forecast indicated an increasing trend with specific emphasis in Manhattan  
+#### Manhattan is the most in demand neighborhood and further analysis showed that the 1-bedroom Apartment are more popular and the most highly priced.
+#### The forecast indicated an increasing trend in price of Airbnb with specific emphasis in Manhattan.
 
 ## Challenges 
 #### Had to change beds from dimension to measures 
